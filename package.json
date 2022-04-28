@@ -1,0 +1,23 @@
+{
+  "name": "french-grammar",
+  "version": "1.0.0",
+  "description": "french-grammar",
+  "main": "irregularVerbs.js",
+  "scripts": { 
+    "test": "jest", 
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meginks/french-grammar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meginks/french-grammar/issues"
+  },
+  "homepage": "https://github.com/meginks/french-grammar#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
